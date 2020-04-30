@@ -1,4 +1,4 @@
-Hi, I'm Jen. Welcome to my webpage!
+Hi, I'm Jen. Welcome to my webpage. 
 
 
 Credits:
