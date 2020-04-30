@@ -2,6 +2,9 @@ Hi, I'm Jen. Welcome to my webpage!
 
 
 Credits:
+	Design:
+		Massively by HTML5 UP
+		html5up.net | @ajlkn
 
 	Demo Images:
 		Unsplash (unsplash.com)
